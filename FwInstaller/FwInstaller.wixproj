@@ -6,6 +6,6 @@
     <None Include="config.xml.sample" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\FileWatcher\FileWatcher.csproj" />
+    <ProjectReference Include="..\\src\\FileWatcher.csproj" />
   </ItemGroup>
 </Project>
