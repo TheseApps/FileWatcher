@@ -1,6 +1,4 @@
 
-
-
 can we define a 3 parter; 
 
 what folder am i watching?
